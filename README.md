@@ -1,8 +1,8 @@
 # Exercise-4-Read-and-Write-Excel-Data
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : Thamizh.S 
+Reg.No : 212224040350
 ~~~
 
 ## Aim:
